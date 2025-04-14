@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "easter-egg-1",
+	"name": "easter-egg-1d",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-03-13",
 	"observability": {
